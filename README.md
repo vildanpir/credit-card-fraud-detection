@@ -25,10 +25,6 @@ detection is one of the most common Machine Learning use cases in that industry.
 
 The full file is not in this repo because of its size — download it from the Kaggle link above.
 
-## Status
-
-Day 1 — dataset selected and explored. Work in progress during the project week.
-
 ## Author
 
 **Vildan Pirpiroglu** — Ironhack, 2026
